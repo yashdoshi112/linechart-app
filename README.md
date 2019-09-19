@@ -6,22 +6,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Click on Choose File and select a CSV file containing series data
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Charts - 
+![c1](https://user-images.githubusercontent.com/13164061/65270070-0d577e00-db38-11e9-9418-9c4dbd9777d8.JPG)
+![c2](https://user-images.githubusercontent.com/13164061/65270071-0d577e00-db38-11e9-8a28-91625628ec22.JPG)
+![c3](https://user-images.githubusercontent.com/13164061/65270072-0df01480-db38-11e9-808c-3207fd7d38ba.JPG)
+![c4](https://user-images.githubusercontent.com/13164061/65270073-0df01480-db38-11e9-8012-d9cd32917816.JPG)
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
